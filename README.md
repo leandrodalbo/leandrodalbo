@@ -50,3 +50,6 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Software Develo
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
+
+###
+![Up And Running](./signal.gif)
