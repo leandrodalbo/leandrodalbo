@@ -39,11 +39,10 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software
   <img src="https://streak-stats.demolab.com?user=leandrodalbo&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
-### 🌐 Up And Running
-
-![Up And Running](./signal.gif)
 
 ### 🌐 Connect with Me
+
+![Up And Running](./signal.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandrodalbo" target="_blank">
