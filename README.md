@@ -1,6 +1,6 @@
 <h1>Hi <img src="./icons/hi.gif" width="30" height="30"></h1>
 
-I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Software Developer.
+I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software Developer.
 
 ![Up And Running](./signal.gif)
 
