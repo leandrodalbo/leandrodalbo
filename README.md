@@ -2,7 +2,6 @@
 
 I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Software Developer.
 
-###
 ![Up And Running](./signal.gif)
 
 ### ⚙️ Skills
