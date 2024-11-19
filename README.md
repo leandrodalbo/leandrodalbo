@@ -2,23 +2,24 @@
 
 I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software Developer.
 
-
 ### ⚙️ Skills
 
 <div align="center">
 
 #### Languages
+
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 #### Databases
+
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-
 #### Technologies & Frameworks
+
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -30,20 +31,17 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-
 </div>
 
 ### 📊 Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leandrodalbo&show_icons=true&theme=omni&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrodalbo&layout=compact&langs_count=5&theme=omni&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=leandrodalbo&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
-
 ### 🌐 Connect with Me
-
-![Up And Running](./signal.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandrodalbo" target="_blank">
@@ -58,5 +56,3 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
-
-
