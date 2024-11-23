@@ -44,15 +44,20 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodalbo/), Senior Software
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandrodalbo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
+ 
+  <a href="https://stackoverflow.com/users/13661524/leandro-dal-bo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=stackoverflow&logo=stackoverflow&label=&color=C41A04&logoColor=white&style=for-the-badge" height="40" />
   </a>
 
-  <a href="https://www.youtube.com/@cryptoturtles/streams" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=C41A04&logoColor=white&style=for-the-badge" height="40" />
+  <a href="https://x.com/leandrodbo/media" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=C41A04&logoColor=white&style=for-the-badge" height="40" />
   </a>
 
   <a href="mailto:leandro.e.dal.bo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+
+   <a href="https://www.linkedin.com/in/leandrodalbo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
   </a>
 </div>
