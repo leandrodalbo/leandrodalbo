@@ -25,12 +25,13 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodlb/), Senior Software D
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 
+<ul>
 
-<img height="50" src="./terraform.svg />
+<li>Terraform: <img height="50" src="./terraform.svg" /> <li>
 <img height="50" src="./react.svg" />
 <img height="50" src="./nodejs.svg" />
 <img height="50" src="./actions.svg" />
-
+</ul>
 </div>
 
-- ![Github Actions](./actions.svg) **Github Actions**
+
