@@ -1,4 +1,4 @@
-<h1>Hi <a href="./giftogo.go"><img  src="./f.gif" width="30" height="30"></a></h1>
+<h1>Hi</h1>
 
 I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodlb/), Senior Software Developer.
 
