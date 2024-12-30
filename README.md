@@ -2,7 +2,6 @@
 
 I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodlb/), Senior Software Developer.
 
-### ⚙️ Skills
 
 <div align="left">
 
