@@ -23,41 +23,14 @@ I'm [Leandro Dal Bo](https://www.linkedin.com/in/leandrodlb/), Senior Software D
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
+
+
+<img height="50" src="./terraform.svg />
+<img height="50" src="./react.svg" />
+<img height="50" src="./nodejs.svg" />
+<img height="50" src="./actions.svg" />
 
 </div>
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrodalbo&show_icons=true&theme=omni&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrodalbo&layout=compact&langs_count=5&theme=omni&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=leandrodalbo&theme=omni&hide_border=true" height="150" alt="Streak Stats" />
-</div>
-
-### 🌐 Connect with Me
-
-<div align="center">
- 
-  <a href="https://stackoverflow.com/users/13661524/leandro-dal-bo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=stackoverflow&logo=stackoverflow&label=&color=C41A04&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-
-  <a href="https://x.com/JunglelogicLab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=C41A04&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-
-  <a href="mailto:leandro.e.dal.bo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-
-   <a href="https://www.linkedin.com/in/leandrodlb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-</div>
+- ![Github Actions](./actions.svg) **Github Actions**
